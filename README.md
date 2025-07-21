@@ -45,7 +45,7 @@ After evaluation using cross-validation, the performance results of the models w
 | Naive Bayes | 95.3% |
 | Decision Tree | 95.3% |
 
-![Model Comparison Chart](images/comparison_graph)
+<img src="images/comparison_graph.png" alt="Gráfico de Comparação de Modelos" width="900"/>
 
 **Final Conclusion:**
 
